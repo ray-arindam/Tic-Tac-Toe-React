@@ -1,0 +1,22 @@
+.gameColumn{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  padding: 5px;
+  margin: 2px;
+}
+
+.game{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  gap: 4rem;
+}

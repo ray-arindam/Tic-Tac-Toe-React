@@ -1,0 +1,14 @@
+.boardRow{
+  display: flex;
+  flex-direction: row;
+}
+
+.board{
+  padding: 10px;
+  border: solid 4px rgb(130, 130, 130);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+}
